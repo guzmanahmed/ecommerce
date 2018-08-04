@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "217328279053",
+    "firebase_url": "https://gengefastafirebase.firebaseio.com",
+    "project_id": "gengefastafirebase",
+    "storage_bucket": "gengefastafirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217328279053:android:bdc9f6878c47a4f4",
+        "android_client_info": {
+          "package_name": "com.vectorcoder.androidecommerce.genge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217328279053-ue2ru8fhhckvgam2lamr3c76po0d4ntt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.genge",
+            "certificate_hash": "387109dee00f6ca71fb7a5975180e47c3496670b"
+          }
+        },
+        {
+          "client_id": "217328279053-acqloge0rq62n9papniuftcaj3qp3b2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.genge",
+            "certificate_hash": "a9e214c5d628349048ac8487b3ebbe49cc71abab"
+          }
+        },
+        {
+          "client_id": "217328279053-t3atkc1apo0eob30scl1hqq737c86q68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Z-9lS3j67yWcfdpzBvZryetIM5JKiFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217328279053-t3atkc1apo0eob30scl1hqq737c86q68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
